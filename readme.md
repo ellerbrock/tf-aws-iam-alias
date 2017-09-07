@@ -4,7 +4,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-Outputs the current IAM Alias (usefull for further use like tagging ...
+Outputs the current IAM Alias (usefull for further use like tagging ...)
 
 ## Example Usage
 
